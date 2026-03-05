@@ -1,9 +1,9 @@
 {
-  "name": "helioslauncher",
-  "version": "2.2.1",
-  "productName": "Helios Launcher",
-  "description": "Modded Minecraft Launcher",
-  "author": "Daniel Scalzi (https://github.com/dscalzi/)",
+  "name": "post-ap-launcher",
+  "productName": "Post-Apocalypse Launcher",
+  "version": "1.0.0",
+  "description": "Launcher officiel du serveur Post-Apocalypse RP",
+  "author": "Nafy_fy",
   "license": "UNLICENSED",
   "homepage": "https://github.com/dscalzi/HeliosLauncher",
   "bugs": {
